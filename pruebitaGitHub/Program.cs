@@ -7,6 +7,7 @@ namespace pruebitaGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("uwu");
+            Console.WriteLine("<3");
         }
     }
 }
