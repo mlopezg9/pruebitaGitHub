@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pHHZcLPauDZzlxAf76mDkUOHe1AxdXHrEYY1APQM8PCKnR2Bh0aeavMXF0jF4Bk+7sitmxrpRSy9YvM3ATccDg==",
+  "dgSpecHash": "FtqYAhks4EPXhzVrw+XcgRQud10ptT5jRK+cB9w/jTpGd5lYbRoqSi7Auv/ZreSRDHQ7q9dxBxcD4QJkJWHdXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\pruebitaGitHub\\pruebitaGitHub\\pruebitaGitHub.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\monec\\Desktop\\Potito\\Potito\\pruebitaGitHub\\pruebitaGitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\monec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\monec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\monec\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
